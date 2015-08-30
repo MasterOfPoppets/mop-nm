@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var metalsmith = require('metalsmith');
 var path = require('path');
 
