@@ -1,6 +1,6 @@
 {
   "name": "mop-nm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MOP Project Scaffolder for node module",
   "main": "index.js",
   "scripts": {
