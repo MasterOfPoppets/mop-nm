@@ -2,10 +2,7 @@
   "name": "mop-nm",
   "version": "0.0.5",
   "description": "MOP Project Scaffolder for node module",
-  "files": [
-    "index.js",
-    "cli.js"
-  ],
+  "files": "index.js",
   "scripts": {
     "test": "xo && mocha"
   },
@@ -36,7 +33,7 @@
     "lodash": "^3.10.1",
     "metalsmith": "^2.0.1"
   },
-  "bin": "cli.js",
+  "bin": "index.js",
   "engines": {
     "node": ">=0.12.0"
   }

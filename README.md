@@ -11,7 +11,9 @@
 [depstat-url]: https://david-dm.org/MasterOfPoppets/mop-nm
 [depstat-image]: https://david-dm.org/MasterOfPoppets/mop-nm.svg
 
-> mop-nm is a standalone project scaffolder for scaffolding out a basic node module built on [Metalsmith][]
+> mop-nm is a standalone project scaffolder for scaffolding out a basic node module.
+>
+>Built with [Metalsmith][].
 
 [Metalsmith]: http://www.metalsmith.io/
 
