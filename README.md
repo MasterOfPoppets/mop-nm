@@ -2,14 +2,14 @@
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
 
-[npm-url]: https://npmjs.org/package/{{moduleName}}
-[npm-image]: https://badge.fury.io/js/{{moduleName}}.svg
+[npm-url]: https://npmjs.org/package/mop-nm
+[npm-image]: https://badge.fury.io/js/mop-nm.svg
 
-[travis-url]: http://travis-ci.org/{{username}}/{{moduleName}}
-[travis-image]: https://secure.travis-ci.org/{{username}}/{{moduleName}}.svg?branch=master
+[travis-url]: http://travis-ci.org/MasterOfPoppets/mop-nm
+[travis-image]: https://secure.travis-ci.org/MasterOfPoppets/mop-nm.svg?branch=master
 
-[depstat-url]: https://david-dm.org/{{username}}/{{moduleName}}
-[depstat-image]: https://david-dm.org/{{username}}/{{moduleName}}.svg
+[depstat-url]: https://david-dm.org/MasterOfPoppets/mop-nm
+[depstat-image]: https://david-dm.org/MasterOfPoppets/mop-nm.svg
 
 > mop-nm is a standalone project scaffolder for scaffolding out a basic node module built on [Metalsmith][]
 
