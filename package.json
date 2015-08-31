@@ -1,8 +1,11 @@
 {
   "name": "mop-nm",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "MOP Project Scaffolder for node module",
-  "main": "index.js",
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
   "scripts": {
     "test": "xo && mocha"
   },
@@ -29,7 +32,12 @@
     "xo": "^0.7.1"
   },
   "dependencies": {
+    "inquirer": "^0.9.0",
+    "lodash": "^3.10.1",
     "metalsmith": "^2.0.1"
   },
-  "bin": "index.js"
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.12.0"
+  }
 }

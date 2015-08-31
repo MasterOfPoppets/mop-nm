@@ -1,0 +1,21 @@
+{
+  "name": "{{moduleName}}",
+  "version": "0.0.1",
+  "description": "MOP Project Scaffolder for node module",
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "author": {
+    "name": "{{username}}",
+    "email": "",
+    "url": ""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "xo": "^0.7.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
