@@ -18,7 +18,7 @@
 ## Installation
 
 ```shell
-npm install -g {{moduleName}}
+npm install -g mop-nm
 ```
 
 ## Basic Usage
